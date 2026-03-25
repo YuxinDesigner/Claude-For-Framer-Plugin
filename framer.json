@@ -1,0 +1,6 @@
+{
+  "id": "claude-for-framer",
+  "name": "Claude for Framer",
+  "modes": ["canvas"],
+  "icon": "public/icon.svg"
+}
